@@ -113,7 +113,7 @@ The Multinomial Naïve Bayes model transforms unstructured string patterns into 
 ### Window 1: Dataset Distribution Overview
 
 *(This window visualizes the class imbalances through a Countplot and a Pie Chart before data training commences).*
-`[Insert your Dataset Countplot & Pie Chart screenshot here]`
+
 <img width="1256" height="490" alt="output" src="https://github.com/user-attachments/assets/d88390b4-6582-4d80-bfe1-3d2d9b977571" />
 
 
