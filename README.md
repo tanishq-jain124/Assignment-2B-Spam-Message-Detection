@@ -122,7 +122,7 @@ The Multinomial Naïve Bayes model transforms unstructured string patterns into 
 ### Window 2: Model Performance Metrics
 
 *(This window visualizes the structural classification accuracy via a Confusion Matrix Heatmap alongside a Performance Summary Bar Chart).*
-`[<img width="1389" height="490" alt="output1" src="https://github.com/user-attachments/assets/b53d8eb5-049f-4405-9fcc-c03fda742c97" /> ]`
+<img width="1389" height="490" alt="output1" src="https://github.com/user-attachments/assets/b53d8eb5-049f-4405-9fcc-c03fda742c97" /> 
 
 
 
